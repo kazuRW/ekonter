@@ -1,8 +1,10 @@
-import Nav from './nav'
+// import Nav from './nav'
+import NavDaisy from "./NavDaisy"
 
 const main = () => {
   return (
-    <Nav/>
+    // <Nav/>
+    <NavDaisy />
   )
 }
 
